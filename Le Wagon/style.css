@@ -1,0 +1,36 @@
+body{
+	background-color: #362FD9;
+	color: white;
+	font-family: Times, serif;
+	font-size: 20px;
+	line-height: 2;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+a {
+	color: white;
+	transition: color 0.3s ease;
+
+}
+
+a:hover {
+
+		color: purple;
+
+}
+
+
+
+h1, h2 {
+	font-weight: bolder;
+}
+
+div{
+	background-color: #537FE7;
+	text-align: center;
+	margin: 10px 80px 10px 80px;
+	border-radius: 6px;
+}
+
+
